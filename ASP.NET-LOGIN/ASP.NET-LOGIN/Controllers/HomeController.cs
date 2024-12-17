@@ -1,32 +1,3 @@
-using ASP.NET_LOGIN.Models;
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-
-namespace ASP.NET_LOGIN.Controllers
-{
-    public class HomeController : Controller
-    {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b39b1d2885bb881693a85525fbcf5d0419b87859ef7373e5c7e5c31957162134
+size 823

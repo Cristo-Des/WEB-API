@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ASP.NET-LOGIN\\Views\\Acceso\\CambiarNombre.cshtml",
               "ToolTip": "C:\\Users\\elizo\\source\\repos\\ASP.NET-LOGIN\\ASP.NET-LOGIN\\Views\\Acceso\\CambiarNombre.cshtml",
               "RelativeToolTip": "ASP.NET-LOGIN\\Views\\Acceso\\CambiarNombre.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAMwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-14T05:46:18.737Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "ASP.NET-LOGIN\\Views\\Acceso\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T00:58:56.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T00:58:56.551Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "ASP.NET-LOGIN\\Views\\Acceso\\Bienvenido.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T23:56:27.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T23:56:27.17Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "ASP.NET-LOGIN\\Controllers\\AccesoController.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAAwKMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T04:44:14.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T04:44:14.274Z"
             }
           ]
         }

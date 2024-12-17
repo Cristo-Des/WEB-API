@@ -1,12 +1,3 @@
-﻿namespace ASP.NET_LOGIN.Models
-{
-    public class Usuario
-    {
-        public int id {get; set; }
-        public string Nombre { get; set; }
-        public string Correo { get; set; }
-        public string Contraseña { get; set; }
-        public string ConfirmarContra { get; set; }
-
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:276c08885db80500abdf3b982cb3558dd43ee957e4a37ec5b782222ca64c3cba
+size 309

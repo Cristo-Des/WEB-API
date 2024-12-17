@@ -1,26 +1,3 @@
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-builder.Services.AddSession();
-builder.Services.AddControllersWithViews();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-}
-app.UseStaticFiles();
-
-app.UseRouting();
-
-app.UseAuthorization();
-
-app.UseSession();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Acceso}/{action=Login}/{id?}");
-
-app.Run();
+version https://git-lfs.github.com/spec/v1
+oid sha256:20aba639376ae6bc65769997b193dacf9b6e867cad9fd02637829d99ec0a68bb
+size 542
